@@ -1,0 +1,26 @@
+{
+  "name": "btech-2025-devop-web-app-assessment",
+  "version": "1.0.0",
+  "description": "This repository contains the materials for the Btech 2025 Web App Assessment. The assessment is designed to evaluate students' proficiency in DevOps practices, including version control using Git and GitHub, containerization using Docker, and CI/CD using GitHub Actions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mu17250912/Btech-2025-DEVOP-web-App-assessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mu17250912/Btech-2025-DEVOP-web-App-assessment/issues"
+  },
+  "homepage": "https://github.com/mu17250912/Btech-2025-DEVOP-web-App-assessment#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
